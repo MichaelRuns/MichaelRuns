@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Michael Vernau
+- 👀 I’m interested in all things CS, genomics, and exercise science
+- 🌱 I’m currently studying CS with a focus on biocomputation @Stanford (c/o 2022)
+- 📫 How to reach me email michaelvernau@gmail.com or vernau@stanford.edu!
