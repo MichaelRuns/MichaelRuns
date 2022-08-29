@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michael Vernau
 - 👀 I’m interested in all things Machine Learning, wearables, and biointegrated systems.
 - 🌱 I am a new CS graduate from Stanford with a concentration in Biocomputation
-- 🔱 I currently work on Perception at Cepton
+- 🔱 I currently work as a Software Engineer at Cepton
 - 📫 How to reach me:  email michaeljvernau@gmail.com or vernau@stanford.edu!
 - 😺 I have side projects trying to automate simple tasks in the veterinary medicine space, feel free to message about these!
