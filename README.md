@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michael Vernau
-- 👀 I’m interested in all things Full Stack programming, wearables, and biointegrated systems.
+- 👀 I’m interested in all things Machine Learning, wearables, and biointegrated systems.
 - 🌱 I am a new CS graduate from Stanford with a concentration in Biocomputation
 - 🔱 I currently work on Perception at Cepton
 - 📫 How to reach me:  email michaeljvernau@gmail.com or vernau@stanford.edu!
