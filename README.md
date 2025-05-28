@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michael Vernau
 - 👀 I’m interested in all things AI, Computer Vision, and biointegrated systems.
 - 🌱 I am a retired distance runner and a professional nerd
-- 🔱 I currently work as a Software Engineer at Cepton, where I work on cool things in lidar perception
+- 🔱 I currently work as a Software Engineer at Facebook, where I work on Enterprise AI products
 - 📫 How to reach me:  email michaeljvernau@gmail.com or vernau@alumni.stanford.edu!
 - 😺 I have many open side projects, mostly in the AI space. Feel free to message me about these!
